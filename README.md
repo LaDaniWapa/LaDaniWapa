@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">My name is Daniela, videogames brought me here 👽<br><br>🔭 I’m currently working on my degree final project<br>🌱 I’m currently learning PySpark and AWS<br>🎓 Student at IES Nervion<br>📫 You can reach me at diazgarridodaniela05@gmail.com
+<p align="left">
+  My name is Daniela, videogames brought me here 👽<br><br>
+  🔭 I’m currently working on side projects<br>
+  🌱 I’m currently learning Goland and maths<br>
+  🎓 <s>Student at IES Nervion</s> Got my multiplatform developer degree :) <br>
+  📫 You can reach me at diazgarridodaniela05@gmail.com
 </p>
 
 ###
