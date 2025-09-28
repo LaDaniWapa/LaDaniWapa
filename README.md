@@ -1,12 +1,13 @@
-<h2 align="left">Hi y'all ✌️</h2>
+<h2 align="left">Hi ^^/</h2>
 
 ###
 
 <p align="left">
-  My name is Daniela, videogames brought me here 👽<br><br>
-  🔭 I’m currently working on side projects<br>
-  🌱 I’m currently learning Goland and maths<br>
-  🎓 <s>Student at IES Nervion</s> Got my multiplatform developer degree :) <br>
+  My name is Daniela, videogames brought me here 🎮<br>
+  <i>I'm now playing <a href="https://pokemmo.com/en/">PokeMMO</a></i> <br>
+  
+  📚 I’m currently studying Computer Science with mention in Communication Systems<br>
+  🎓 Student at Pablo Olavide University <br>
   📫 You can reach me at diazgarridodaniela05@gmail.com
 </p>
 
