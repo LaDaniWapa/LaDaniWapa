@@ -3,9 +3,8 @@
 ###
 
 <p align="left">
-  My name is Daniela, videogames brought me here 🎮<br>
-  <i>I'm now playing <a href="https://pokemmo.com/en/">PokeMMO</a></i> <br>
   
+  ✨ I’m currently working on [Mythic Approaches](https://github.com/Mythic-Approaches/Mythic-Approaches-1.21.1) with my boo :)  
   📚 I’m currently studying Computer Science with mention in Information Systems<br>
   🎓 Student at Pablo Olavide University <br>
   📫 You can reach me at diazgarridodaniela05@gmail.com
